@@ -1,3 +1,4 @@
+*/.git
 dev.js
 server/node_modules/"sendgrid.env" 
 source ./sendgrid.env
